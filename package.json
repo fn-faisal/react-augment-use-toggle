@@ -1,0 +1,7 @@
+{
+  "name": "@react-augment/use-toggle",
+  "version": "1.0.0",
+  "peerDependencies": {
+    "react": "*"
+  }
+}
